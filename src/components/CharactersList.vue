@@ -6,7 +6,7 @@
                 v-model="search"
                 class="w-full bg-transparent outline-none"
                 type="text"
-                placeholder="Search"
+                placeholder="Pesquisar..."
             />
         </div>
         <div class="flex flex-wrap justify-between">
